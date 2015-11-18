@@ -11,7 +11,7 @@ curl [appurl:port]
 
 or 
 
-visit http:<url>:<port as defined in .env>
+visit `http:<url>:<port as defined in .env>`
 
 ## Installation
 
